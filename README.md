@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Rachel D'costa
-- 👀 I’m interested in coding,making webpages
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on web designing
-- 📫 How to reach me on my insta @rachel_dcosta_3
+👋 Hi, I’m Rachel D’costa  
+🎓 Master of Information Technology (Cybersecurity)  
+💻 Interested in Cybersecurity, IT Support, and Full-Stack Development  
+💻 Skilled in Python, Splunk, Django, and system troubleshooting  
+🤝 Open to collaboration on security labs and technical projects
+📫 Connect with me on LinkedIn
 
 <!---
 Rld2303/Rld2303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
